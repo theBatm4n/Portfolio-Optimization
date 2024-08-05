@@ -7,8 +7,12 @@ https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
 The list of the S&P500 stocks for 8 years until 2024-06-30 was extracted from .Using yfinance all the  
 
 
-## Features and Technical indicators
+## Features and Technical indicators 
 ### Garman-Klass volatility 
+A method to calculate historical volatility in financial markets. It takes into account the range of price movements within a trading day and  
+![image](https://github.com/user-attachments/assets/c8b43716-0cdc-415f-9378-88991945d2a2)
+![image](https://github.com/user-attachments/assets/6b45e191-f1a2-4b30-9c8e-043fa7e84cd4)
+
 
 Relative Strength Index
 
