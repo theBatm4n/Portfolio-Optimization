@@ -15,14 +15,5 @@ A method to calculate historical volatility in financial markets. It takes into 
 ![image](https://github.com/user-attachments/assets/6b45e191-f1a2-4b30-9c8e-043fa7e84cd4)
 
 
-Relative Strength Index
-
-Bollinger Bands
-
-Average True Range 
-
-Moving Average Convergence Divergence
-
-
 ![comparison](https://github.com/user-attachments/assets/8b5b621a-5fe6-4a89-ad53-4fa902bda54d)
 
